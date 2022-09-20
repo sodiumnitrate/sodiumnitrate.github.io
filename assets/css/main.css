@@ -3907,3 +3907,10 @@ input, select, textarea {
 			}
 
 		}
+
+	#prof_pic {
+		max-width: 100%;
+    		height: auto;
+    		width: auto\9; /* ie8 */
+		border-radius:50%;
+	}
